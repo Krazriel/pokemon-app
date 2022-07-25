@@ -3,6 +3,7 @@ import axios from 'axios'
 
 import './Pokemon.css'
 
+//Styling Color dictionaries
 const typeColor = {
     'NORMAL': '#A8A77A',
     'FIRE': '#EE8130',
