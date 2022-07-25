@@ -1,0 +1,27 @@
+.poke-type{
+    text-align: center;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 10px 15px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    width: 130px;
+    height: 150px;
+}
+
+.elements{
+    display: flex;
+    flex-direction: column;
+    row-gap: 3px;
+}
+
+.element-type{
+    color: black;
+    width: 100px;
+    border-radius: 25px;
+}
